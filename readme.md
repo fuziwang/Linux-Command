@@ -47,10 +47,15 @@ ls stat cp mv rm grep chmod find chown cat ps mkdir
 ```
 
 + 项目成员：
-  + **付子旺**（学号：**2016011409**）
-  + **陈若繁**（学号：**2016011425**）
+  + 付子旺（学号：2016011409）
+  + 陈若繁（学号：2016011425）
 
 ## 项目内容
 
-+ 项目实现效果：gif
-+ 项目源代码文件：url
+项目实现效果
+
+![](linux.gif)
+
+项目源代码地址：
+
+https://github.com/fuziwang/Linux-Command
